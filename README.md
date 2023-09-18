@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 ## :frowning_man: Who am I?:frowning_man:
-I'm Gabriel Dessotti, an undergraduate student in computer engineering at USP! 
+I'm Gabriel Dessotti, an undergraduate student in Computer Engineering at USP! 
 
 ## :package: What you find on my GitHub? :package:
 On my GitHub, I keep homework assignments from my college, codes I made for the university league I participate in, and codes from subjects I studied and put into practice. Therefore, here you can find the following subjects:
