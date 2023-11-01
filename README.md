@@ -13,3 +13,9 @@ On my GitHub, I keep homework assignments from my college, codes I made for the 
   <li>ROS</li>
   <li>Data Science and Machine Learning</li>
 </ul>
+
+<div>
+    <a href="https://github.com/dessotti1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dessotti1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessotti1&layout=compact&langs_count=7&theme=chartreuse-dark&hide=jupyter%20notebook"/>
+</div>
