@@ -6,12 +6,12 @@ I'm Gabriel Dessotti, an undergraduate student in Computer Engineering at USP!
 On my GitHub, I keep homework assignments from my college, codes I made for the university league I participate in, and codes from subjects I studied and put into practice. Therefore, here you can find the following subjects:
 
 <ul>
-  <li>HTML, CSS, React e Vue.js</li>
+  <li>HTML, CSS, React e Next</li>
   <li>JavaScript</li>
   <li>Python</li>
   <li>Computer Vision with OpenCV</li>
   <li>ROS</li>
-  <li>Data Science and Machine Learning</li>
+  <li>Data Science, Machine Learning and NLP</li>
 </ul>
 
 <div>
